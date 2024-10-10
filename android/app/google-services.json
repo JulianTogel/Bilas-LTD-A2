@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "144551753619",
+    "project_id": "c-r-e-d-i-mobile-8j3pvt",
+    "storage_bucket": "c-r-e-d-i-mobile-8j3pvt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144551753619:android:7b1b0bd2a45e6c4e879a66",
+        "android_client_info": {
+          "package_name": "com.mycompany.credimobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144551753619-mucj0gc7j8bm7tfrlgnkc68ejn4vilk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.credimobile",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "144551753619-os9v9t91jcgc3099lgugncn4630b2bn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYb47R8-5B9vJMucP4VkSjhVAVA7XSzR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144551753619-os9v9t91jcgc3099lgugncn4630b2bn1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144551753619-948hnpfsgmqqre5hfaj7qcsclmc4fta6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.credimobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
